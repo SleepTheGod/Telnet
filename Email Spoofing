@@ -1,0 +1,8 @@
+1. Open CMD and type telnet (must have telnet enabled on pc)
+2. Once telnet is open type " o "
+3. Type (target website) 25
+4. Type MAIL FROM: EX@DOMAIN.COM
+5. Type RCPT TO: ex@domain.com
+6. Type SUBJECT: anything here
+7. Type DATA <email body contents>
+8. Type a period then you are done
